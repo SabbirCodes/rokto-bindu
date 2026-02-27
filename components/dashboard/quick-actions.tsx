@@ -20,7 +20,7 @@ const actions = [
   {
     label: "Blood Requests",
     icon: HeartPulse,
-    href: "/blood-request",
+    href: "/blood-requests",
     description: "Request blood from donors",
   },
   {
